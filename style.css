@@ -230,20 +230,7 @@ body {
   background-color: hsl(0, 0%, 98%);
 }
 
-html {
-  margin: 0;
-  padding: 0;
-  font-size: 125%;
-  overflow-x: hidden;
-}
-
-.wrapper {
-  margin: 0 auto;
-  padding: 0;
-  max-width: 1440px;
-  width: 95%;
-}
-
+c
 h1 {
   font-size: 2rem;
   width: 50%;
